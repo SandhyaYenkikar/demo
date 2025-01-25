@@ -1,4 +1,4 @@
 # demo
 Git repo
 <br>
-Author - Sandhya
+Author - Sandhya Yenkikar
